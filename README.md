@@ -1,7 +1,7 @@
 print_h
 =======
 
-Recursively prints human-readable information about a variable in HTML
+Recursively prints an array in HTML
 
 Notes
 * The stop variable sets the initial tab stop and can be changed when the function is called. 
